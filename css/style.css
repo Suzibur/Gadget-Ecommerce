@@ -1,0 +1,62 @@
+#carouselExampleIndicators{
+    background-image: url('../img/banner-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#navbarNav ul li a{
+    font-size: 18px;
+    font-weight: bold;
+}
+.container{
+    margin-bottom: 50px;
+}
+.carousel img{
+    width: 100%;
+}
+.carousel h1{
+    font-size: 41px;
+}
+.carousel p{
+    font-size: 18px;
+}
+button{
+    border: none;
+    padding: 10px 20px;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.smartphone{
+    border-bottom: 30px;
+}
+.card{
+    border-radius: 10px;
+    height: 550px;
+    box-shadow: 5px 5px 40px rgb(196, 191, 191);
+}
+.title h1{
+    margin-bottom: 30px;
+}
+.title a{
+    text-decoration: none;
+    color: darkorange;
+}
+.card img{
+    margin: 50px 0;
+    width: 200px;
+    height: auto;
+    display: block;
+}
+.card h5{
+    font-size: 28px;
+    text-align: center;
+}
+.card p{
+    font-size: 16px;
+    text-align: center;
+}
+.card button{
+    display: block;
+    margin: auto;
+}
